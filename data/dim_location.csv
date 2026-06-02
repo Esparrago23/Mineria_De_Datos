@@ -1,0 +1,31 @@
+location_id,city,state,country
+1,Tuxtla Gutierrez,Chiapas,Mexico
+2,San Cristobal,Chiapas,Mexico
+3,Tapachula,Chiapas,Mexico
+4,Merida,Yucatan,Mexico
+5,Valladolid,Yucatan,Mexico
+6,Cancun,Quintana Roo,Mexico
+7,Playa del Carmen,Quintana Roo,Mexico
+8,Guadalajara,Jalisco,Mexico
+9,Zapopan,Jalisco,Mexico
+10,Monterrey,Nuevo Leon,Mexico
+11,San Pedro,Nuevo Leon,Mexico
+12,Austin,Texas,USA
+13,Dallas,Texas,USA
+14,Houston,Texas,USA
+15,San Antonio,Texas,USA
+16,Los Angeles,California,USA
+17,San Diego,California,USA
+18,San Jose,California,USA
+19,Miami,Florida,USA
+20,Orlando,Florida,USA
+21,Bogota,Cundinamarca,Colombia
+22,Soacha,Cundinamarca,Colombia
+23,Medellin,Antioquia,Colombia
+24,Envigado,Antioquia,Colombia
+25,Cali,Valle del Cauca,Colombia
+26,Palmira,Valle del Cauca,Colombia
+27,Santiago,Metropolitana,Chile
+28,Puente Alto,Metropolitana,Chile
+29,Valparaiso,Valparaiso,Chile
+30,Vina del Mar,Valparaiso,Chile
